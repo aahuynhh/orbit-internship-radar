@@ -1,5 +1,5 @@
 
-name: Refresh public internship feeds
+name: Orbit Daily Internship Refresh
 
 on:
   workflow_dispatch:
