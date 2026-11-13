@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T19:52:20.949740+00:00",
-  "sourceBoardsChecked": 65,
+  "updatedAt": "2026-11-13T19:37:14.159757+00:00",
+  "sourceBoardsChecked": 66,
   "sourceBoardsConfigured": 113,
-  "count": 11,
+  "count": 16,
   "jobs": [
     {
       "id": "feed:Greenhouse:figma:6241542004",
@@ -24,7 +24,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration,",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.142987+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.492073+00:00"
     },
     {
       "id": "feed:Greenhouse:figma:6180005004",
@@ -46,7 +46,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<div class=\"content-intro\"><p>Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration,",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.143560+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.492976+00:00"
     },
     {
       "id": "feed:Greenhouse:databricks:8787352002",
@@ -68,7 +68,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<p>(P-1594)</p>\n<p>At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business.</p>\n<p>As a Product<strong> </strong>Design<strong> </strong>Intern,<strong> </strong>you will<strong> </strong>jo",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.319556+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.972594+00:00"
     },
     {
       "id": "feed:Greenhouse:coinbase:8175339",
@@ -90,7 +90,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At&nbsp;<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people w",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.445768+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.433222+00:00"
     },
     {
       "id": "feed:Ashby:notion:ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
@@ -112,7 +112,7 @@
       "source": "Ashby",
       "sourceDescription": "Who We Are  Notion is the collaborative AI workspace where teams and agents  think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.    Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still ",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.010958+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.368358+00:00"
     },
     {
       "id": "feed:Greenhouse:duolingo:8933791002",
@@ -134,7 +134,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p>\n<p>At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.</p>\n<p>J",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.110126+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.465197+00:00"
     },
     {
       "id": "feed:Greenhouse:pinterest:8140217",
@@ -156,13 +156,13 @@
       "source": "Greenhouse",
       "sourceDescription": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p>\n<p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p>\n<p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate ",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:08.231783+00:00"
+      "discoveredAt": "2026-11-13T19:37:11.753998+00:00"
     },
     {
-      "id": "feed:Greenhouse:stripe:8332683",
-      "company": "Stripe",
-      "role": "Product Design Intern",
-      "location": "Toronto",
+      "id": "feed:Lever:palantir:1a935143-e857-480c-bc5a-ad625d754eb6",
+      "company": "Palantir",
+      "role": "Product Designer, Internship",
+      "location": "New York, NY",
       "workType": "Not specified",
       "pay": null,
       "payUnit": "hour",
@@ -172,13 +172,123 @@
       "status": "Saved",
       "priority": "Medium",
       "deadlineCertainty": "Unverified",
-      "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+      "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+      "nextAction": "Review the official posting and verify deadline, pay and relocation",
+      "notes": "Automatically discovered via public Lever employer board; verify Summer 2027 eligibility and details.",
+      "source": "Lever",
+      "sourceDescription": "A World-Changing Company \n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that ",
+      "compensationText": "",
+      "discoveredAt": "2026-11-13T19:37:13.890137+00:00"
+    },
+    {
+      "id": "feed:Lever:palantir:44129013-01e0-4699-8fc1-7a189bb37b63",
+      "company": "Palantir",
+      "role": "Product Designer, Internship",
+      "location": "London, United Kingdom",
+      "workType": "Not specified",
+      "pay": null,
+      "payUnit": "hour",
+      "relocation": "Unknown",
+      "housing": "Unknown",
+      "due": "",
+      "status": "Saved",
+      "priority": "Medium",
+      "deadlineCertainty": "Unverified",
+      "url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
+      "nextAction": "Review the official posting and verify deadline, pay and relocation",
+      "notes": "Automatically discovered via public Lever employer board; verify Summer 2027 eligibility and details.",
+      "source": "Lever",
+      "sourceDescription": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that f",
+      "compensationText": "",
+      "discoveredAt": "2026-11-13T19:37:13.890163+00:00"
+    },
+    {
+      "id": "feed:Lever:palantir:8f7bbffa-92aa-4d25-9586-943b3322a27d",
+      "company": "Palantir",
+      "role": "Product Designer, Internship - US Government",
+      "location": "New York, NY",
+      "workType": "Not specified",
+      "pay": null,
+      "payUnit": "hour",
+      "relocation": "Unknown",
+      "housing": "Unknown",
+      "due": "",
+      "status": "Saved",
+      "priority": "Medium",
+      "deadlineCertainty": "Unverified",
+      "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
+      "nextAction": "Review the official posting and verify deadline, pay and relocation",
+      "notes": "Automatically discovered via public Lever employer board; verify Summer 2027 eligibility and details.",
+      "source": "Lever",
+      "sourceDescription": "A World-Changing Company \n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that ",
+      "compensationText": "",
+      "discoveredAt": "2026-11-13T19:37:13.890174+00:00"
+    },
+    {
+      "id": "feed:Lever:palantir:9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+      "company": "Palantir",
+      "role": "Product Designer, Internship - US Government",
+      "location": "Palo Alto, CA",
+      "workType": "Not specified",
+      "pay": null,
+      "payUnit": "hour",
+      "relocation": "Unknown",
+      "housing": "Unknown",
+      "due": "",
+      "status": "Saved",
+      "priority": "Medium",
+      "deadlineCertainty": "Unverified",
+      "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+      "nextAction": "Review the official posting and verify deadline, pay and relocation",
+      "notes": "Automatically discovered via public Lever employer board; verify Summer 2027 eligibility and details.",
+      "source": "Lever",
+      "sourceDescription": "A World-Changing Company \n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that ",
+      "compensationText": "",
+      "discoveredAt": "2026-11-13T19:37:13.890184+00:00"
+    },
+    {
+      "id": "feed:Lever:palantir:fa060d94-f85d-4d02-be58-b81787fe57e5",
+      "company": "Palantir",
+      "role": "Product Designer, Internship - US Government",
+      "location": "Washington, D.C.",
+      "workType": "Not specified",
+      "pay": null,
+      "payUnit": "hour",
+      "relocation": "Unknown",
+      "housing": "Unknown",
+      "due": "",
+      "status": "Saved",
+      "priority": "Medium",
+      "deadlineCertainty": "Unverified",
+      "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
+      "nextAction": "Review the official posting and verify deadline, pay and relocation",
+      "notes": "Automatically discovered via public Lever employer board; verify Summer 2027 eligibility and details.",
+      "source": "Lever",
+      "sourceDescription": "A World-Changing Company \n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nThe Palantir Design Team is responsible for the human experience of using our software. Our team is growing rapidly, but we're committed to creating a tight-knit team environment that ",
+      "compensationText": "",
+      "discoveredAt": "2026-11-13T19:37:13.890194+00:00"
+    },
+    {
+      "id": "feed:Greenhouse:stripe:8332681",
+      "company": "Stripe",
+      "role": "Product Design Intern",
+      "location": "San Francisco, Seattle, New York City",
+      "workType": "Not specified",
+      "pay": null,
+      "payUnit": "hour",
+      "relocation": "Unknown",
+      "housing": "Unknown",
+      "due": "",
+      "status": "Saved",
+      "priority": "Medium",
+      "deadlineCertainty": "Unverified",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332681",
       "nextAction": "Review the official posting and verify deadline, pay and relocation",
       "notes": "Automatically discovered via public Greenhouse employer board; verify Summer 2027 eligibility and details.",
       "source": "Greenhouse",
       "sourceDescription": "<h3 style=\"line-height: 1.4;\"><strong>About Stripe</strong></h3>\n<p style=\"line-height: 1.4;\">Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million <a href=\"https://stripe.com/customers\">businesses</a> build on Stripe, spanning the economic front",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:11.704594+00:00"
+      "discoveredAt": "2026-11-13T19:37:12.933650+00:00"
     },
     {
       "id": "feed:Greenhouse:lyft:8817900002",
@@ -200,7 +310,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<p>At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.</p>\n<p>Content Systems is the heart of Lyft's language ecosystem. The team is made up of two distinct disciplines, Content Design and Learning Experience Design, who create and own language across Lyft's in-app experiences that help customers succeed on the Lyft platform.</p>\n<p><strong>We're looking for a Content Design inter",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:09.188810+00:00"
+      "discoveredAt": "2026-11-13T19:37:13.032181+00:00"
     },
     {
       "id": "feed:Greenhouse:lyft:8797069002",
@@ -222,7 +332,7 @@
       "source": "Greenhouse",
       "sourceDescription": "<p>At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.</p>\n<p>Lyft is seeking a Mixed Methods User Experience Research Intern to join our team, which aspires to elevate the user experience for our drivers and riders across 300+ cities nationwide. You will conduct research studies, as well as participate in studies alongside more senior researchers from which you’ll gain strong men",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:09.197107+00:00"
+      "discoveredAt": "2026-11-13T19:37:13.044208+00:00"
     },
     {
       "id": "feed:Ashby:ibotta:18bc055e-8958-4a09-9d5d-59894e6b9747",
@@ -244,7 +354,7 @@
       "source": "Ashby",
       "sourceDescription": "Ibotta is seeking a  Product Design Intern  to join our innovative team and contribute to our mission to Make Every Purchase Rewarding. As a participant in our  2027 Summer Internship , you will have the opportunity to fully integrate with your team to directly contribute to ongoing Ibotta business initiatives. In addition to the daily time with your team, you will participate in ongoing teach outs curated to help build skills essential to transitioning into the workforce and building your caree",
       "compensationText": "",
-      "discoveredAt": "2026-11-12T19:52:10.318038+00:00"
+      "discoveredAt": "2026-11-13T19:37:13.904755+00:00"
     }
   ]
 }
